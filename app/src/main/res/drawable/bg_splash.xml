@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
+
+    <item android:drawable="@color/text_hint_color" />
+
+    <item>
+        <bitmap
+            android:src="@drawable/coffee_splash" />
+    </item>
+
+</layer-list>
